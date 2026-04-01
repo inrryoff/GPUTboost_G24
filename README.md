@@ -32,8 +32,8 @@ Para evitar que o sistema derrube o desempenho (Thermal Throttling), é altament
 ---
 
 ## 👤 Créditos e Menções
-* **Autor:** [@inrryoff](https://github.com)
-* **Recomendação Técnica:** [@mahisataruna](https://github.com) (pelo módulo de Thermal Disable).
+* **Autor:** [@inrryoff](https://github.com/inrryoff)
+* **Recomendação Técnica:** [@mahisataruna](https://github.com/mahisataruna) (pelo módulo de Thermal Disable).
 
 ---
 *Desenvolvido para a comunidade Android.*
