@@ -1,0 +1,6 @@
+id=1Ghz_GPU
+name=Clock GPU 1Ghz G24
+version=2.0
+versionCode=20
+author=Inrryoff
+description=Módulo para travar o uso da gpu em 1Ghz do Moto G24. ¡Pode causar super aquecimento use por sua conta e risco!.
