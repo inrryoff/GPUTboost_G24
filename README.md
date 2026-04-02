@@ -17,6 +17,8 @@ Este módulo Magisk foi desenvolvido para travar o clock da GPU **ARM Mali-G52**
 * **Codinome:** `fogorow`.
 * **Hardware Alvo:** MediaTek Helio G85 (Mali-G52 MC2).
 
+---
+
 ### 🔍 Feedback da Comunidade
 Se você testar este módulo em:
 1. **ROM Stock** (Motorola original).
