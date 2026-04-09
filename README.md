@@ -1,5 +1,9 @@
 # Mali-G52 GPU Clock Fix - Moto G24 🚀
 
+[![Magisk](https://img.shields.io/badge/Magisk-27.0+-green.svg)](https://github.com/topjohnwu/Magisk)
+[![Android](https://img.shields.io/badge/Android-12+-blue.svg)](https://www.android.com)
+[![Device](https://img.shields.io/badge/Device-Moto_G24-orange.svg)](https://motorola.com)
+
 Este módulo Magisk foi desenvolvido para travar o clock da GPU **ARM Mali-G52** no máximo, eliminando quedas de FPS e otimizando o desempenho bruto no **Motorola Moto G24** (Helio G85).
 
 ---
